@@ -5,4 +5,4 @@
 - 🎯 Creating Arduino and Raspberry pi projects is one of my favorite hobbies.
 - 📫 If you want to reach me, you can reach me at "yusufskaygusuz@gmail" mail address.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufskaygusuz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufskaygusuz&show_icons=true&theme=Gradient)
