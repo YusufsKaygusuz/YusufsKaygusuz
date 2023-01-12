@@ -5,14 +5,14 @@
 - 🎯 Creating Arduino and Raspberry pi projects is one of my favorite hobbies.
 - 📫 If you want to reach me, you can reach me at "yusufskaygusuz@gmail" mail address.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufskaygusuz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufskaygusuz&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufskaygusuz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yusufskaygusuz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">More Details About Me</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufskaygusuz" alt="yusufskaygusuz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufskaygusuz&layout=compact&theme=radical" alt="yusufskaygusuz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
