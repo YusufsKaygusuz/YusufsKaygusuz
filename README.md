@@ -12,7 +12,7 @@
 
 <h3 align="center">More Details About Me</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufskaygusuz&layout=compact&theme=radical" alt="yusufskaygusuz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufskaygusuz" alt="yusufskaygusuz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
