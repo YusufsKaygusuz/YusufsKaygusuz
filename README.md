@@ -3,7 +3,6 @@
 - 👀👀 I’m currently learning Phyton, PHP and C#.
 - 📚📚 To be better prepared for the future tomorrows I try reading books every day. I recommend it to you too.
 - 🤖🤖 Creating Arduino and Raspberry pi projects is one of my favorite hobbies.
-- 📧📧 If you want to reach me, you can reach me at "yusufskaygusuz@gmail" mail address.
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yusufskaygusuz&show_icons=true&theme=radical)
 
