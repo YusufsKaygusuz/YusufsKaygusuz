@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Yusuf S. Kaygusuz. I'm a Computer Engineer who is extremely open to development and innovations.<br>💻 I’m interested in Image processing, Artificial Intelligent, Fullstack Web Development as a programmer and developer.<br>👀 I’m currently working in Phyton Django and PostgreSQL.<br>📚 To be better prepared for the future tomorrows I try reading books every day. I recommend it to you too.<br>🤖 Creating Arduino and Raspberry pi projects is one of my favorite hobbies.
 
 
