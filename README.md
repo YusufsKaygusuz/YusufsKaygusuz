@@ -1,6 +1,6 @@
-# About Me:
-👋 Hi, I’m Yusuf S. Kaygusuz. I'm a Computer Engineer who is extremely open to development and innovations.<br>💻 I’m interested in Image processing, Artificial Intelligent, Fullstack Web Development as a programmer and developer.<br>👀 I’m currently working in Phyton Django and PostgreSQL.<br>📚 To be better prepared for the future tomorrows I try reading books every day. I recommend it to you too.<br>🤖 Creating Arduino and Raspberry pi projects is one of my favorite hobbies.
+# 👨‍💻 Yusuf S. Kaygusuz
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=00FF00&width=435&lines=Computer+Engineer;Full+Stack+Developer;AI+%26+Image+Processing+Enthusiast)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusufskaygusuz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-sami-k-69b992230) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yusufskaygusuz) 
