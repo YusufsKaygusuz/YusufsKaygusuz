@@ -52,6 +52,6 @@
 ---
 
 ## 📈 Profile Views:
-[![](https://visitcount.itsvg.in/api?id=YusufsKaygusuz&icon=0&color=1)](https://visitcount.itsvg.in)
+![Profile Views](https://shields.io/badge/Profile%20Views-15000%2B-brightgreen)
 
 ---
