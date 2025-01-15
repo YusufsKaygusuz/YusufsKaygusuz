@@ -52,6 +52,6 @@
 ---
 
 ## 📈 Profile Views:
-![Profile Views](https://shields.io/badge/Profile%20Views-15000%2B-brightgreen)
+![Profile Views](https://shields.io/badge/Profile%20Views-25000%2B-brightgreen)
 
 ---
