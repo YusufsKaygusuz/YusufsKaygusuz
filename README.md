@@ -45,10 +45,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YusufsKaygusuz&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufsKaygusuz&theme=vue-dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufsKaygusuz&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![YusufsKaygusuz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YusufsKaygusuz&theme=vue-dark&hide_border=true)
 ---
 
 ## ✍️ Random Dev Quote:
